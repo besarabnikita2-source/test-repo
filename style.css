@@ -1,0 +1,12 @@
+.body{
+    display: grid;
+    place-items: center;
+    color: #fff;
+    background-color: aquamarine;
+}
+
+.ul{
+    background-color:black ;
+    padding: 0 30px;
+    list-style-type: square;
+}
